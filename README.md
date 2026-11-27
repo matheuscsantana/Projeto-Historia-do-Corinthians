@@ -7,7 +7,6 @@ O objetivo do projeto é demonstrar conhecimento em HTML, CSS, organização de 
 ---------------
 ## Demonstração
 
-🔗 **Acesse o site aqui:**  
 🔗 [Acesse o site](https://matheuscsantana.github.io/Projeto-Historia-do-Corinthians/)
 ---------------
 
